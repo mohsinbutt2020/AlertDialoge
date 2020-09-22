@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '~/.gradle/caches/transforms-2/files-2.1/2a8e3929b8077e07a0becfa733672840/jetified-android-sdk-3.18.0/jars/classes.jar!/com/webengage/sdk/android/d.class [Gradle: com.webengage:android-sdk:3.18.0@aar]'" />
-    <option name="defaultScopeName" value="File '~/.gradle/caches/transforms-2/files-2.1/2a8e3929b8077e07a0becfa733672840/jetified-android-sdk-3.18.0/jars/classes.jar!/com/webengage/sdk/android/d.class [Gradle: com.webengage:android-sdk:3.18.0@aar]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
@@ -10,6 +10,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/.gradle/caches/transforms-2/files-2.1/2a8e3929b8077e07a0becfa733672840/jetified-android-sdk-3.18.0/jars/classes.jar!/com/webengage/sdk/android/d.class [Gradle: com.webengage:android-sdk:3.18.0@aar]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
