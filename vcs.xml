@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/marcoscgdev/DialogSheet.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Vove7/BottomDialog.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/Rough &amp; Erasable/Test Android Pr" />
