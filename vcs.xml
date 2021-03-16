@@ -58,6 +58,14 @@
           <option name="url" value="https://github.com/natario1/ViewPrinter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ramotion/android-ui-animation-components-and-libraries.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ramotion/folding-cell-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/Rough &amp; Erasable/Test Android Pr" />
