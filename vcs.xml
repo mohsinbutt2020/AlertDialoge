@@ -130,6 +130,10 @@
           <option name="url" value="https://github.com/TellH/RecyclerStickyHeaderView.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/saber-solooki/StickyHeader.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/Rough &amp; Erasable/Test Android Pr" />
