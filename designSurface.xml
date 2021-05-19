@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="DoduaeApp/src/main/res/layout/main_page_gridview_layout.xml" value="0.17076502732240437" />
         <entry key="app/src/main/res/drawable/sticky_shadow_default.xml" value="0.4109375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/dashboard_layout.xml" value="0.1" />
