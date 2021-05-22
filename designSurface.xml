@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../../layout/custom_preview.xml" value="0.49722222222222223" />
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.30754226267880364" />
         <entry key="../../../../layout/custom_preview.xml" value="0.2574074074074074" />
         <entry key="DoduaeApp/src/main/res/layout/activity_other.xml" value="0.20304054054054055" />
         <entry key="DoduaeApp/src/main/res/layout/activity_view_simple_product.xml" value="0.2735655737704918" />
@@ -10,10 +10,15 @@
         <entry key="DoduaeApp/src/main/res/layout/item_product_options.xml" value="0.17229729729729729" />
         <entry key="DoduaeApp/src/main/res/layout/main_page_gridview_layout.xml" value="0.17076502732240437" />
         <entry key="HashirDoduaeApp/src/main/res/layout/activity_advanced_search.xml" value="0.29322916666666665" />
+        <entry key="TestDoduaeApp/src/customedoduae/res/layout/option_radio_button.xml" value="0.19222972972972974" />
+        <entry key="TestDoduaeApp/src/customedoduae/res/layout/radio_button.xml" value="0.1" />
+        <entry key="TestDoduaeApp/src/customedoduae/res/layout/table_row.xml" value="0.19222972972972974" />
         <entry key="app/src/main/res/drawable/sticky_shadow_default.xml" value="0.4109375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.4234375" />
         <entry key="app/src/main/res/layout/dashboard_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/radio_button.xml" value="0.4375" />
+        <entry key="app/src/main/res/layout/table_layout.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/table_row.xml" value="0.296875" />
         <entry key="flexible-adapter-app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="flexible-adapter-app/src/main/res/layout/activity_main_content.xml" value="0.1" />
         <entry key="flexible-adapter-app/src/main/res/layout/recycler_expandable_item.xml" value="0.1" />
