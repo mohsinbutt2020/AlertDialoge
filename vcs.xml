@@ -182,6 +182,10 @@
           <option name="url" value="https://github.com/Akbari300/Complete-Ecommerce-Android-Application-.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bumptech/glide.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/Rough &amp; Erasable/Test Android Pr" />
