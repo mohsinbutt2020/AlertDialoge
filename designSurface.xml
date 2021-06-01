@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../../layout/custom_preview.xml" value="0.24166666666666667" />
+        <entry key="../../../../../../layout/custom_preview.xml" value="1.0" />
         <entry key="../../../../layout/custom_preview.xml" value="0.10462962962962963" />
         <entry key="DoduaeApp/src/main/res/layout/activity_accountinfo.xml" value="0.17349726775956284" />
         <entry key="DoduaeApp/src/main/res/layout/activity_checkout_steps.xml" value="0.15881147540983606" />
@@ -25,6 +25,7 @@
         <entry key="TestDoduaeApp/src/main/res/drawable/radio_button_states.xml" value="0.2217391304347826" />
         <entry key="TestDoduaeApp/src/main/res/drawable/radio_disable_state.xml" value="0.27152777777777776" />
         <entry key="TestDoduaeApp/src/main/res/drawable/table_border.xml" value="0.26587837837837835" />
+        <entry key="TestDoduaeApp/src/main/res/drawable/touch_image_view.xml" value="0.12638888888888888" />
         <entry key="TestDoduaeApp/src/main/res/layout/activity_category.xml" value="0.22668918918918918" />
         <entry key="TestDoduaeApp/src/main/res/layout/activity_splashscreen.xml" value="0.27364864864864863" />
         <entry key="TestDoduaeApp/src/main/res/layout/activity_view_pager_example.xml" value="0.22702702702702704" />
@@ -33,6 +34,7 @@
         <entry key="TestDoduaeApp/src/main/res/layout/layout_view_product_small_image_view.xml" value="0.2301912568306011" />
         <entry key="TestDoduaeApp/src/main/res/layout/radio_custom_layout.xml" value="0.27364864864864863" />
         <entry key="TestDoduaeApp/src/main/res/layout/subcategory_fragment_list.xml" value="0.22668918918918918" />
+        <entry key="TestDoduaeApp/src/main/res/layout/touch_image_view.xml" value="0.23189890710382513" />
         <entry key="app/src/main/res/drawable/sticky_shadow_default.xml" value="0.4109375" />
         <entry key="app/src/main/res/layout/activity_horizontal_scroll_view.xml" value="0.259963768115942" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3125" />
