@@ -7,10 +7,12 @@
         <entry key="DoduaeApp/src/main/res/drawable/fab.xml" value="0.28060200668896323" />
         <entry key="DoduaeApp/src/main/res/layout/activity_accountinfo.xml" value="0.17349726775956284" />
         <entry key="DoduaeApp/src/main/res/layout/activity_checkout_steps.xml" value="0.15881147540983606" />
+        <entry key="DoduaeApp/src/main/res/layout/activity_dashboard_new.xml" value="0.1847972972972973" />
         <entry key="DoduaeApp/src/main/res/layout/activity_other.xml" value="0.20304054054054055" />
         <entry key="DoduaeApp/src/main/res/layout/activity_view_pager_example.xml" value="0.1" />
         <entry key="DoduaeApp/src/main/res/layout/activity_view_simple_product.xml" value="0.2735655737704918" />
         <entry key="DoduaeApp/src/main/res/layout/app_ratting_dialog.xml" value="0.17144808743169399" />
+        <entry key="DoduaeApp/src/main/res/layout/dashboard_layout.xml" value="0.1847972972972973" />
         <entry key="DoduaeApp/src/main/res/layout/fragment_customer_dashboard.xml" value="0.21383893666927287" />
         <entry key="DoduaeApp/src/main/res/layout/fragment_home.xml" value="0.14493243243243242" />
         <entry key="DoduaeApp/src/main/res/layout/item_cart.xml" value="0.12425348374253484" />
