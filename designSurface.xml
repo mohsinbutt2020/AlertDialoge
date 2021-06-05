@@ -54,6 +54,7 @@
         <entry key="app/src/main/res/layout/dashboard_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/news_list_item.xml" value="0.25181159420289856" />
         <entry key="app/src/main/res/layout/radio_button.xml" value="0.4375" />
+        <entry key="app/src/main/res/layout/radio_table_row.xml" value="0.1" />
         <entry key="app/src/main/res/layout/table_layout.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/table_row.xml" value="0.296875" />
         <entry key="app/src/main/res/menu/activity_horizontal_scroll_view.xml" value="0.4375" />
