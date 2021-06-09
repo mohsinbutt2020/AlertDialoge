@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.2518518518518518" />
-        <entry key="../../../../layout/custom_preview.xml" value="0.15092592592592594" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.24351851851851852" />
         <entry key="DoduaeApp/src/main/res/drawable/fab.xml" value="0.28060200668896323" />
         <entry key="DoduaeApp/src/main/res/drawable/ic_arrow_upward_black_24dp.xml" value="0.26319444444444445" />
         <entry key="DoduaeApp/src/main/res/layout/activity_accountinfo.xml" value="0.17349726775956284" />
@@ -56,11 +56,11 @@
         <entry key="app/src/main/res/drawable/sticky_shadow_default.xml" value="0.4109375" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.4375" />
         <entry key="app/src/main/res/layout/activity_horizontal_scroll_view.xml" value="0.259963768115942" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4375" />
         <entry key="app/src/main/res/layout/activity_viewpager_example.xml" value="0.35144927536231885" />
         <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.29030797101449274" />
         <entry key="app/src/main/res/layout/dashboard_layout.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/fragment_button.xml" value="0.4375" />
+        <entry key="app/src/main/res/layout/fragment_button.xml" value="0.2521186440677966" />
         <entry key="app/src/main/res/layout/news_list_item.xml" value="0.25181159420289856" />
         <entry key="app/src/main/res/layout/radio_button.xml" value="0.4375" />
         <entry key="app/src/main/res/layout/radio_table_row.xml" value="0.1" />
