@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../../layout/custom_preview.xml" value="0.34479166666666666" />
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.31302083333333336" />
         <entry key="../../../../layout/custom_preview.xml" value="0.13796296296296295" />
         <entry key="DoduaeApp/src/main/res/drawable/fab.xml" value="0.28060200668896323" />
         <entry key="DoduaeApp/src/main/res/drawable/ic_arrow_upward_black_24dp.xml" value="0.26319444444444445" />
@@ -37,6 +37,7 @@
         <entry key="DoduaeApp/src/main/res/menu/main.xml" value="0.2709030100334448" />
         <entry key="DoduaeApp/src/main/res/menu/return_menu.xml" value="0.17297297297297298" />
         <entry key="HashirDoduaeApp/src/main/res/layout/activity_advanced_search.xml" value="0.29322916666666665" />
+        <entry key="TestDODuae/src/main/res/layout/suggestion_list.xml" value="0.23243243243243245" />
         <entry key="TestDoduaeApp/src/customedoduae/res/layout/option_radio_button.xml" value="0.19222972972972974" />
         <entry key="TestDoduaeApp/src/customedoduae/res/layout/radio_button.xml" value="0.1" />
         <entry key="TestDoduaeApp/src/customedoduae/res/layout/table_row.xml" value="0.19222972972972974" />
@@ -62,6 +63,9 @@
         <entry key="TestDoduaeApp/src/main/res/layout/radio_custom_layout.xml" value="0.27364864864864863" />
         <entry key="TestDoduaeApp/src/main/res/layout/subcategory_fragment_list.xml" value="0.22668918918918918" />
         <entry key="TestDoduaeApp/src/main/res/layout/touch_image_view.xml" value="0.23189890710382513" />
+        <entry key="app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.38333333333333336" />
+        <entry key="app/src/main/res/drawable/ic_autorenew_black_24dp.xml" value="0.38333333333333336" />
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.38333333333333336" />
         <entry key="app/src/main/res/drawable/sticky_shadow_default.xml" value="0.4109375" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.4375" />
         <entry key="app/src/main/res/layout/activity_horizontal_scroll_view.xml" value="0.259963768115942" />
