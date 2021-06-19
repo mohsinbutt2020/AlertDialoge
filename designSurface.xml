@@ -67,14 +67,19 @@
         <entry key="app/src/main/res/drawable/ic_autorenew_black_24dp.xml" value="0.38333333333333336" />
         <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.38333333333333336" />
         <entry key="app/src/main/res/drawable/sticky_shadow_default.xml" value="0.4109375" />
+        <entry key="app/src/main/res/layout/activity_custom_adapter.xml" value="0.21770833333333334" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.4375" />
         <entry key="app/src/main/res/layout/activity_horizontal_scroll_view.xml" value="0.259963768115942" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.4375" />
         <entry key="app/src/main/res/layout/activity_round_bar_sample.xml" value="0.3125" />
         <entry key="app/src/main/res/layout/activity_viewpager_example.xml" value="0.35144927536231885" />
         <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.21770833333333334" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.21770833333333334" />
         <entry key="app/src/main/res/layout/dashboard_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_button.xml" value="0.2521186440677966" />
+        <entry key="app/src/main/res/layout/item_custom_suggestion.xml" value="0.4375" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.21770833333333334" />
         <entry key="app/src/main/res/layout/news_list_item.xml" value="0.25181159420289856" />
         <entry key="app/src/main/res/layout/radio_button.xml" value="0.4375" />
         <entry key="app/src/main/res/layout/radio_table_row.xml" value="0.1" />
