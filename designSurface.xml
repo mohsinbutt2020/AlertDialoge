@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../../layout/custom_preview.xml" value="0.21296296296296297" />
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.34479166666666666" />
         <entry key="../../../../layout/custom_preview.xml" value="0.13796296296296295" />
         <entry key="DoduaeApp/src/main/res/drawable/fab.xml" value="0.28060200668896323" />
         <entry key="DoduaeApp/src/main/res/drawable/ic_arrow_upward_black_24dp.xml" value="0.26319444444444445" />
@@ -30,7 +30,7 @@
         <entry key="DoduaeApp/src/main/res/layout/item_cart.xml" value="0.12425348374253484" />
         <entry key="DoduaeApp/src/main/res/layout/item_cart_return.xml" value="1.0" />
         <entry key="DoduaeApp/src/main/res/layout/item_notification.xml" value="0.27364864864864863" />
-        <entry key="DoduaeApp/src/main/res/layout/item_product_options.xml" value="0.17229729729729729" />
+        <entry key="DoduaeApp/src/main/res/layout/item_product_options.xml" value="0.1972972972972973" />
         <entry key="DoduaeApp/src/main/res/layout/layout_view_product_small_image_view.xml" value="0.2602006688963211" />
         <entry key="DoduaeApp/src/main/res/layout/main_page_gridview_layout.xml" value="0.17076502732240437" />
         <entry key="DoduaeApp/src/main/res/layout/prodcut_rating_start_layout.xml" value="0.2709030100334448" />
