@@ -38,6 +38,8 @@
         <entry key="DoduaeApp/src/main/res/menu/return_menu.xml" value="0.17297297297297298" />
         <entry key="HashirDoduaeApp/src/main/res/layout/activity_advanced_search.xml" value="0.29322916666666665" />
         <entry key="TestDODuae/src/main/res/layout/activity_view_simple_product.xml" value="0.1858108108108108" />
+        <entry key="TestDODuae/src/main/res/layout/item_subcategory_fragment_elv_child.xml" value="0.27364864864864863" />
+        <entry key="TestDODuae/src/main/res/layout/item_subcategory_fragment_elv_group.xml" value="0.27364864864864863" />
         <entry key="TestDODuae/src/main/res/layout/suggestion_list.xml" value="0.23243243243243245" />
         <entry key="TestDoduaeApp/src/customedoduae/res/layout/option_radio_button.xml" value="0.19222972972972974" />
         <entry key="TestDoduaeApp/src/customedoduae/res/layout/radio_button.xml" value="0.1" />
