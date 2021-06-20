@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../../Users/mohsinbutt/Library/Android/sdk/platforms/android-29/data/res/layout/simple_list_item_activated_1.xml" value="0.27364864864864863" />
         <entry key="../../../../../../layout/custom_preview.xml" value="0.4027777777777778" />
         <entry key="../../../../layout/custom_preview.xml" value="0.30833333333333335" />
         <entry key="DoduaeApp/src/main/res/drawable/fab.xml" value="0.28060200668896323" />
@@ -37,6 +38,7 @@
         <entry key="DoduaeApp/src/main/res/menu/main.xml" value="0.2709030100334448" />
         <entry key="DoduaeApp/src/main/res/menu/return_menu.xml" value="0.17297297297297298" />
         <entry key="HashirDoduaeApp/src/main/res/layout/activity_advanced_search.xml" value="0.29322916666666665" />
+        <entry key="TestDODuae/src/main/res/layout/activity_item_twopane.xml" value="0.27364864864864863" />
         <entry key="TestDODuae/src/main/res/layout/activity_view_simple_product.xml" value="0.1858108108108108" />
         <entry key="TestDODuae/src/main/res/layout/item_subcategory_fragment_elv_child.xml" value="0.27364864864864863" />
         <entry key="TestDODuae/src/main/res/layout/item_subcategory_fragment_elv_group.xml" value="0.27364864864864863" />
