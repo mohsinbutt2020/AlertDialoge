@@ -4,7 +4,7 @@
       <map>
         <entry key="../../../../../../Users/mohsinbutt/Library/Android/sdk/platforms/android-29/data/res/layout/list_content.xml" value="0.16013513513513514" />
         <entry key="../../../../../../Users/mohsinbutt/Library/Android/sdk/platforms/android-29/data/res/layout/simple_list_item_activated_1.xml" value="0.27364864864864863" />
-        <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.39479166666666665" />
         <entry key="../../../../layout/custom_preview.xml" value="0.42239583333333336" />
         <entry key="DoduaeApp/src/main/res/drawable/click_states_.xml" value="0.29063545150501674" />
         <entry key="DoduaeApp/src/main/res/drawable/fab.xml" value="0.28060200668896323" />
@@ -57,6 +57,7 @@
         <entry key="TestDODuae/src/main/res/drawable/custom_progress_primary.xml" value="0.26387959866220734" />
         <entry key="TestDODuae/src/main/res/drawable/fragment_listselector.xml" value="0.28060200668896323" />
         <entry key="TestDODuae/src/main/res/drawable/horizontal_progress_demo.xml" value="0.25384615384615383" />
+        <entry key="TestDODuae/src/main/res/drawable/icon_badge.xml" value="0.24864864864864866" />
         <entry key="TestDODuae/src/main/res/drawable/list_devider.xml" value="0.28060200668896323" />
         <entry key="TestDODuae/src/main/res/drawable/progress_bar_horizontal.xml" value="0.26387959866220734" />
         <entry key="TestDODuae/src/main/res/drawable/progress_limit.xml" value="0.24027777777777778" />
@@ -64,6 +65,7 @@
         <entry key="TestDODuae/src/main/res/drawable/secondary_progress_design.xml" value="0.24027777777777778" />
         <entry key="TestDODuae/src/main/res/layout/activity_item_twopane.xml" value="0.27364864864864863" />
         <entry key="TestDODuae/src/main/res/layout/activity_main.xml" value="0.25675675675675674" />
+        <entry key="TestDODuae/src/main/res/layout/activity_myorder.xml" value="0.23885135135135135" />
         <entry key="TestDODuae/src/main/res/layout/activity_view_simple_product.xml" value="0.1858108108108108" />
         <entry key="TestDODuae/src/main/res/layout/filter_list_layout.xml" value="0.2702702702702703" />
         <entry key="TestDODuae/src/main/res/layout/fragment_all_product_reviews.xml" value="0.25418060200668896" />
@@ -72,6 +74,7 @@
         <entry key="TestDODuae/src/main/res/layout/item_subcategory_fragment_elv_group.xml" value="0.27364864864864863" />
         <entry key="TestDODuae/src/main/res/layout/prodcut_rating_start_layout.xml" value="0.25418060200668896" />
         <entry key="TestDODuae/src/main/res/layout/suggestion_list.xml" value="0.23243243243243245" />
+        <entry key="TestDODuae/src/main/res/layout/tab_custom_icon.xml" value="0.23885135135135135" />
         <entry key="TestDoduaeApp/src/customedoduae/res/layout/option_radio_button.xml" value="0.19222972972972974" />
         <entry key="TestDoduaeApp/src/customedoduae/res/layout/radio_button.xml" value="0.1" />
         <entry key="TestDoduaeApp/src/customedoduae/res/layout/table_row.xml" value="0.19222972972972974" />
