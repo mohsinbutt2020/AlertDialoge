@@ -4,7 +4,7 @@
       <map>
         <entry key="../../../../../../Users/mohsinbutt/Library/Android/sdk/platforms/android-29/data/res/layout/list_content.xml" value="0.16013513513513514" />
         <entry key="../../../../../../Users/mohsinbutt/Library/Android/sdk/platforms/android-29/data/res/layout/simple_list_item_activated_1.xml" value="0.27364864864864863" />
-        <entry key="../../../../../../layout/custom_preview.xml" value="0.2984375" />
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.225" />
         <entry key="../../../../layout/custom_preview.xml" value="0.42239583333333336" />
         <entry key="DoduaeApp/src/main/res/drawable/click_states_.xml" value="0.29063545150501674" />
         <entry key="DoduaeApp/src/main/res/drawable/fab.xml" value="0.28060200668896323" />
@@ -20,6 +20,7 @@
         <entry key="DoduaeApp/src/main/res/layout/activity_accountinfo.xml" value="0.17349726775956284" />
         <entry key="DoduaeApp/src/main/res/layout/activity_checkout_steps.xml" value="0.20208333333333334" />
         <entry key="DoduaeApp/src/main/res/layout/activity_dashboard_new.xml" value="0.1847972972972973" />
+        <entry key="DoduaeApp/src/main/res/layout/activity_myorder.xml" value="0.13783783783783785" />
         <entry key="DoduaeApp/src/main/res/layout/activity_other.xml" value="0.20304054054054055" />
         <entry key="DoduaeApp/src/main/res/layout/activity_return_cart.xml" value="0.2809364548494983" />
         <entry key="DoduaeApp/src/main/res/layout/activity_splashscreen.xml" value="0.20512820512820512" />
