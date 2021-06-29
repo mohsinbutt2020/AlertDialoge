@@ -16,6 +16,7 @@
         <entry key="DoduaeApp/src/main/res/drawable/radio_circuler_states.xml" value="0.29063545150501674" />
         <entry key="DoduaeApp/src/main/res/drawable/radio_flat_selected.xml" value="0.29063545150501674" />
         <entry key="DoduaeApp/src/main/res/drawable/selected_state.xml" value="0.29063545150501674" />
+        <entry key="DoduaeApp/src/main/res/drawable/shape_circuler.xml" value="0.1864864864864865" />
         <entry key="DoduaeApp/src/main/res/drawable/tabview_states.xml" value="0.29063545150501674" />
         <entry key="DoduaeApp/src/main/res/layout/activity_accountinfo.xml" value="0.17349726775956284" />
         <entry key="DoduaeApp/src/main/res/layout/activity_checkout_steps.xml" value="0.20208333333333334" />
@@ -33,6 +34,7 @@
         <entry key="DoduaeApp/src/main/res/layout/bottom_sheet_return_detail.xml" value="0.2709030100334448" />
         <entry key="DoduaeApp/src/main/res/layout/confirm_return_dialog.xml" value="0.27364864864864863" />
         <entry key="DoduaeApp/src/main/res/layout/custom_review_dialog.xml" value="0.27364864864864863" />
+        <entry key="DoduaeApp/src/main/res/layout/custom_tab_tag.xml" value="0.1766891891891892" />
         <entry key="DoduaeApp/src/main/res/layout/custome_exit_dialoge.xml" value="0.27364864864864863" />
         <entry key="DoduaeApp/src/main/res/layout/dashboard_layout.xml" value="0.2326388888888889" />
         <entry key="DoduaeApp/src/main/res/layout/dashboard_logout_layout.xml" value="0.17432432432432432" />
