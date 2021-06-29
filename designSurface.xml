@@ -23,6 +23,7 @@
         <entry key="DoduaeApp/src/main/res/layout/activity_myorder.xml" value="0.13783783783783785" />
         <entry key="DoduaeApp/src/main/res/layout/activity_other.xml" value="0.20304054054054055" />
         <entry key="DoduaeApp/src/main/res/layout/activity_return_cart.xml" value="0.2809364548494983" />
+        <entry key="DoduaeApp/src/main/res/layout/activity_settings.xml" value="0.20371621621621622" />
         <entry key="DoduaeApp/src/main/res/layout/activity_splashscreen.xml" value="0.20512820512820512" />
         <entry key="DoduaeApp/src/main/res/layout/activity_view_pager_example.xml" value="0.2602006688963211" />
         <entry key="DoduaeApp/src/main/res/layout/activity_view_simple_product.xml" value="0.25" />
@@ -88,6 +89,7 @@
         <entry key="TestDODuae/src/main/res/layout/item_orders.xml" value="0.1" />
         <entry key="TestDODuae/src/main/res/layout/item_subcategory_fragment_elv_child.xml" value="0.27364864864864863" />
         <entry key="TestDODuae/src/main/res/layout/item_subcategory_fragment_elv_group.xml" value="0.27364864864864863" />
+        <entry key="TestDODuae/src/main/res/layout/notification_badge.xml" value="0.16925675675675675" />
         <entry key="TestDODuae/src/main/res/layout/prodcut_rating_start_layout.xml" value="0.25418060200668896" />
         <entry key="TestDODuae/src/main/res/layout/suggestion_list.xml" value="0.23243243243243245" />
         <entry key="TestDODuae/src/main/res/layout/tab_custom_icon.xml" value="0.23885135135135135" />
