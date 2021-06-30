@@ -43,7 +43,7 @@
         <entry key="DoduaeApp/src/main/res/layout/fragment_customer_dashboard.xml" value="0.21383893666927287" />
         <entry key="DoduaeApp/src/main/res/layout/fragment_home.xml" value="0.14493243243243242" />
         <entry key="DoduaeApp/src/main/res/layout/fragment_notifications.xml" value="0.24375" />
-        <entry key="DoduaeApp/src/main/res/layout/fragment_write_review_dialog.xml" value="0.23472222222222222" />
+        <entry key="DoduaeApp/src/main/res/layout/fragment_write_review_dialog.xml" value="0.21" />
         <entry key="DoduaeApp/src/main/res/layout/icon_badge.xml" value="0.15574324324324323" />
         <entry key="DoduaeApp/src/main/res/layout/item_cart.xml" value="0.12425348374253484" />
         <entry key="DoduaeApp/src/main/res/layout/item_cart_return.xml" value="1.0" />
@@ -56,7 +56,7 @@
         <entry key="DoduaeApp/src/main/res/layout/order_rating_layout.xml" value="0.17432432432432432" />
         <entry key="DoduaeApp/src/main/res/layout/prodcut_rating_start_layout.xml" value="0.2709030100334448" />
         <entry key="DoduaeApp/src/main/res/layout/product_ratting_stars_detail.xml" value="0.27364864864864863" />
-        <entry key="DoduaeApp/src/main/res/layout/toolbar_custom.xml" value="0.1" />
+        <entry key="DoduaeApp/src/main/res/layout/toolbar_custom.xml" value="0.23614864864864865" />
         <entry key="DoduaeApp/src/main/res/menu/main.xml" value="0.2709030100334448" />
         <entry key="DoduaeApp/src/main/res/menu/return_menu.xml" value="0.17297297297297298" />
         <entry key="HashirDoduaeApp/src/main/res/layout/activity_advanced_search.xml" value="0.29322916666666665" />
