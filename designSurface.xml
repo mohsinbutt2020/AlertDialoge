@@ -5,7 +5,7 @@
         <entry key="../../../../../../Users/mohsinbutt/Library/Android/sdk/platforms/android-29/data/res/layout/list_content.xml" value="0.16013513513513514" />
         <entry key="../../../../../../Users/mohsinbutt/Library/Android/sdk/platforms/android-29/data/res/layout/simple_list_item_activated_1.xml" value="0.27364864864864863" />
         <entry key="../../../../../../layout/custom_preview.xml" value="0.3528205128205128" />
-        <entry key="../../../../layout/custom_preview.xml" value="0.3390625" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="DoduaeApp/src/main/res/drawable/click_states_.xml" value="0.29063545150501674" />
         <entry key="DoduaeApp/src/main/res/drawable/fab.xml" value="0.28060200668896323" />
         <entry key="DoduaeApp/src/main/res/drawable/ic_arrow_upward_black_24dp.xml" value="0.26319444444444445" />
@@ -159,7 +159,7 @@
         <entry key="flexible-adapter-app/src/main/res/layout/recycler_expandable_item.xml" value="0.1" />
         <entry key="flexible-adapter-app/src/main/res/menu/activity_entry_drawer.xml" value="0.1" />
         <entry key="reviewratings/src/main/res/drawable/ic_person.xml" value="0.19722222222222222" />
-        <entry key="reviewratings/src/main/res/layout/bar.xml" value="0.26197916666666665" />
+        <entry key="reviewratings/src/main/res/layout/bar.xml" value="0.1" />
         <entry key="reviewratings/src/main/res/layout/bar_two.xml" value="0.26197916666666665" />
       </map>
     </option>
