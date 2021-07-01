@@ -18,6 +18,7 @@
         <entry key="DoduaeApp/src/main/res/drawable/selected_state.xml" value="0.29063545150501674" />
         <entry key="DoduaeApp/src/main/res/drawable/shape_circuler.xml" value="0.24594594594594596" />
         <entry key="DoduaeApp/src/main/res/drawable/tabview_states.xml" value="0.29063545150501674" />
+        <entry key="DoduaeApp/src/main/res/font/roboto.xml" value="0.23547297297297298" />
         <entry key="DoduaeApp/src/main/res/layout/activity_accountinfo.xml" value="0.17349726775956284" />
         <entry key="DoduaeApp/src/main/res/layout/activity_cart.xml" value="0.20912162162162162" />
         <entry key="DoduaeApp/src/main/res/layout/activity_checkout_steps.xml" value="0.20208333333333334" />
@@ -127,13 +128,14 @@
         <entry key="app/src/main/res/drawable/ic_autorenew_black_24dp.xml" value="0.38333333333333336" />
         <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.38333333333333336" />
         <entry key="app/src/main/res/drawable/sticky_shadow_default.xml" value="0.4109375" />
+        <entry key="app/src/main/res/font/allerta_stencil.xml" value="0.34270833333333334" />
         <entry key="app/src/main/res/font/roboto.xml" value="0.3885416666666667" />
         <entry key="app/src/main/res/layout/activity_custom_adapter.xml" value="0.21770833333333334" />
         <entry key="app/src/main/res/layout/activity_example2.xml" value="0.35833333333333334" />
         <entry key="app/src/main/res/layout/activity_gradient.xml" value="0.35833333333333334" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.4375" />
         <entry key="app/src/main/res/layout/activity_horizontal_scroll_view.xml" value="0.259963768115942" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19739583333333333" />
         <entry key="app/src/main/res/layout/activity_round_bar_sample.xml" value="0.35833333333333334" />
         <entry key="app/src/main/res/layout/activity_rounded_gradient.xml" value="0.35833333333333334" />
         <entry key="app/src/main/res/layout/activity_viewpager_example.xml" value="0.35144927536231885" />
