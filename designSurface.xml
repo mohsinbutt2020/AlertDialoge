@@ -4,7 +4,7 @@
       <map>
         <entry key="../../../../../../Users/mohsinbutt/Library/Android/sdk/platforms/android-29/data/res/layout/list_content.xml" value="0.16013513513513514" />
         <entry key="../../../../../../Users/mohsinbutt/Library/Android/sdk/platforms/android-29/data/res/layout/simple_list_item_activated_1.xml" value="0.27364864864864863" />
-        <entry key="../../../../../../layout/custom_preview.xml" value="0.37447916666666664" />
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.46261682242990654" />
         <entry key="../../../../layout/custom_preview.xml" value="0.13518518518518519" />
         <entry key="DoduaeApp/src/main/res/drawable/click_states_.xml" value="0.29063545150501674" />
         <entry key="DoduaeApp/src/main/res/drawable/fab.xml" value="0.28060200668896323" />
@@ -33,7 +33,7 @@
         <entry key="DoduaeApp/src/main/res/layout/activity_view_simple_product.xml" value="0.25" />
         <entry key="DoduaeApp/src/main/res/layout/app_ratting_dialog.xml" value="0.2809364548494983" />
         <entry key="DoduaeApp/src/main/res/layout/app_version_layout.xml" value="0.27364864864864863" />
-        <entry key="DoduaeApp/src/main/res/layout/bar.xml" value="0.14909090909090908" />
+        <entry key="DoduaeApp/src/main/res/layout/bar.xml" value="0.2809364548494983" />
         <entry key="DoduaeApp/src/main/res/layout/bar_two.xml" value="0.25405405405405407" />
         <entry key="DoduaeApp/src/main/res/layout/bottom_dialog_layout.xml" value="0.2709030100334448" />
         <entry key="DoduaeApp/src/main/res/layout/bottom_sheet_return_detail.xml" value="0.2709030100334448" />
