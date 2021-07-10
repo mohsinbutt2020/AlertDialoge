@@ -169,6 +169,7 @@
         <entry key="app/src/main/res/layout/table_layout.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/table_row.xml" value="0.296875" />
         <entry key="app/src/main/res/menu/activity_horizontal_scroll_view.xml" value="0.4375" />
+        <entry key="demo_apps_commons/src/main/res/layout/missing_credentials.xml" value="0.421875" />
         <entry key="flexible-adapter-app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="flexible-adapter-app/src/main/res/layout/activity_main_content.xml" value="0.1" />
         <entry key="flexible-adapter-app/src/main/res/layout/recycler_expandable_item.xml" value="0.1" />
