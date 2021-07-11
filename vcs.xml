@@ -278,6 +278,10 @@
           <option name="url" value="https://github.com/firebase/quickstart-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zendesk/sdk_demo_app_android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/Rough &amp; Erasable/Test Android Pr" />
