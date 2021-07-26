@@ -141,6 +141,7 @@
         <entry key="TestDoduaeApp/src/main/res/drawable/finger_print_svg.xml" value="0.19594594594594594" />
         <entry key="TestDoduaeApp/src/main/res/drawable/ic_coin.xml" value="0.2935810810810811" />
         <entry key="TestDoduaeApp/src/main/res/drawable/mybutton_blue.xml" value="0.2935810810810811" />
+        <entry key="TestDoduaeApp/src/main/res/drawable/mybutton_brown.xml" value="0.12569444444444444" />
         <entry key="TestDoduaeApp/src/main/res/drawable/radio_butn_img_states.xml" value="0.27152777777777776" />
         <entry key="TestDoduaeApp/src/main/res/drawable/radio_button_states.xml" value="0.2217391304347826" />
         <entry key="TestDoduaeApp/src/main/res/drawable/radio_disable_state.xml" value="0.27152777777777776" />
@@ -173,6 +174,7 @@
         <entry key="app/src/main/res/drawable/ic_autorenew_black_24dp.xml" value="0.38333333333333336" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2677083333333333" />
         <entry key="app/src/main/res/drawable/ic_target__1_.xml" value="0.4109375" />
+        <entry key="app/src/main/res/drawable/mybutton_purple.xml" value="0.2972222222222222" />
         <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.38333333333333336" />
         <entry key="app/src/main/res/drawable/sticky_shadow_default.xml" value="0.4109375" />
         <entry key="app/src/main/res/font/allerta_stencil.xml" value="0.34270833333333334" />
