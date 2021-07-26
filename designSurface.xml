@@ -22,7 +22,7 @@
         <entry key="../../../../../../Users/mohsinbutt/Library/Android/sdk/platforms/android-29/data/res/layout/list_content.xml" value="0.16013513513513514" />
         <entry key="../../../../../../Users/mohsinbutt/Library/Android/sdk/platforms/android-29/data/res/layout/simple_list_item_activated_1.xml" value="0.27364864864864863" />
         <entry key="../../../../../../layout/custom_preview.xml" value="0.2641025641025641" />
-        <entry key="../../../../layout/custom_preview.xml" value="0.2972222222222222" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.4158974358974359" />
         <entry key="DoduaeApp/src/main/res/drawable-ldpi/ic_coin.xml" value="0.2168918918918919" />
         <entry key="DoduaeApp/src/main/res/drawable/click_states_.xml" value="0.29063545150501674" />
         <entry key="DoduaeApp/src/main/res/drawable/fab.xml" value="0.28060200668896323" />
@@ -141,7 +141,6 @@
         <entry key="TestDoduaeApp/src/main/res/drawable/finger_print_svg.xml" value="0.19594594594594594" />
         <entry key="TestDoduaeApp/src/main/res/drawable/ic_coin.xml" value="0.2935810810810811" />
         <entry key="TestDoduaeApp/src/main/res/drawable/mybutton_blue.xml" value="0.2935810810810811" />
-        <entry key="TestDoduaeApp/src/main/res/drawable/mybutton_brown.xml" value="0.12569444444444444" />
         <entry key="TestDoduaeApp/src/main/res/drawable/radio_butn_img_states.xml" value="0.27152777777777776" />
         <entry key="TestDoduaeApp/src/main/res/drawable/radio_button_states.xml" value="0.2217391304347826" />
         <entry key="TestDoduaeApp/src/main/res/drawable/radio_disable_state.xml" value="0.27152777777777776" />
@@ -170,11 +169,8 @@
         <entry key="TestDoduaeApp/src/main/res/layout/tabmodule_viewstub.xml" value="0.1766891891891892" />
         <entry key="TestDoduaeApp/src/main/res/layout/touch_image_view.xml" value="0.23189890710382513" />
         <entry key="app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.38333333333333336" />
-        <entry key="app/src/main/res/drawable/blue_button_background.xml" value="0.45260416666666664" />
         <entry key="app/src/main/res/drawable/ic_autorenew_black_24dp.xml" value="0.38333333333333336" />
-        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2677083333333333" />
         <entry key="app/src/main/res/drawable/ic_target__1_.xml" value="0.4109375" />
-        <entry key="app/src/main/res/drawable/mybutton_purple.xml" value="0.2972222222222222" />
         <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.38333333333333336" />
         <entry key="app/src/main/res/drawable/sticky_shadow_default.xml" value="0.4109375" />
         <entry key="app/src/main/res/font/allerta_stencil.xml" value="0.34270833333333334" />
@@ -204,19 +200,6 @@
         <entry key="app/src/main/res/menu/activity_horizontal_scroll_view.xml" value="0.4375" />
         <entry key="chat_v2_jwt_sample/src/main/res/layout/jwt_layout.xml" value="0.38645833333333335" />
         <entry key="demo_apps_commons/src/main/res/layout/missing_credentials.xml" value="0.1" />
-        <entry key="dialogbox/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2677083333333333" />
-        <entry key="dialogbox/src/main/res/drawable/blue_button_background.xml" value="0.45260416666666664" />
-        <entry key="dialogbox/src/main/res/drawable/dialog_background.xml" value="0.2677083333333333" />
-        <entry key="dialogbox/src/main/res/drawable/error_center_x.xml" value="0.2677083333333333" />
-        <entry key="dialogbox/src/main/res/drawable/error_circle.xml" value="0.2677083333333333" />
-        <entry key="dialogbox/src/main/res/drawable/gray_button_background.xml" value="0.2677083333333333" />
-        <entry key="dialogbox/src/main/res/drawable/ic_launcher_background.xml" value="0.2677083333333333" />
-        <entry key="dialogbox/src/main/res/drawable/red_button_background.xml" value="0.2677083333333333" />
-        <entry key="dialogbox/src/main/res/drawable/success_bow.xml" value="0.2677083333333333" />
-        <entry key="dialogbox/src/main/res/drawable/success_circle.xml" value="0.2677083333333333" />
-        <entry key="dialogbox/src/main/res/drawable/warning_circle.xml" value="0.2677083333333333" />
-        <entry key="dialogbox/src/main/res/drawable/warning_sigh.xml" value="0.2677083333333333" />
-        <entry key="dialogbox/src/main/res/layout/alert_dialog.xml" value="0.4375" />
         <entry key="flexible-adapter-app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="flexible-adapter-app/src/main/res/layout/activity_main_content.xml" value="0.1" />
         <entry key="flexible-adapter-app/src/main/res/layout/recycler_expandable_item.xml" value="0.1" />
